@@ -1,0 +1,8 @@
+"./csLFXT.obj"
+"./lcd.obj"
+"./main.obj"
+"./startup_msp432p4111_ccs.obj"
+"./sysTickDelays.obj"
+"./system_msp432p4111.obj"
+"../msp432p4111.cmd"
+-llibc.a
